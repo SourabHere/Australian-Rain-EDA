@@ -28,14 +28,11 @@ const Navbar = () => {
         )}
       </div>
       <div id='horizontal-line'></div>
-      {/* Link to my portfolio */}
       <a
         style={{ display: 'table-cell' }}
-        href='https://www.codebyronda.com/'
+        href='https://www.example.com'
         target='_blank'
         rel='noreferrer'
-        name='portfolio-link'
-        id='portfolio-link'
       >
         <div id='prof-pic'></div>
       </a>

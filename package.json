@@ -18,15 +18,14 @@
   ,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jesse10930/invoice-app.git"
+    "url": "git+https://github.com/arjyo851/invoice-app.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jesse10930/invoice-app/issues"
+    "url": "https://github.com/arjyo851/invoice-app/issues"
   },
-  "homepage": "https://github.com/jesse10930/invoice-app#readme",
   "dependencies": {
     "config": "^3.3.6",
     "express": "^4.17.1",
